@@ -1,4 +1,4 @@
-# exercism-csharp
+# Exercism CSharp
 
 ## Basics
 * [Hello, World!](https://exercism.org/tracks/csharp/exercises/hello-world)
@@ -9,3 +9,4 @@
 
 ## Strings
 * [Log Levels](https://exercism.org/tracks/csharp/exercises/log-levels)
+* [Rotational Cipher](https://exercism.org/tracks/csharp/exercises/rotational-cipher)
