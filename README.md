@@ -10,6 +10,6 @@ My journey through C#
 
 ## Strings
 * [Log Levels](https://exercism.org/tracks/csharp/exercises/log-levels)
-* [Rotational Cipher](https://exercism.org/tracks/csharp/exercises/rotational-cipher)
 
 ## Extension Methods
+* [Log Analysis](https://exercism.org/tracks/csharp/exercises/log-analysis)
