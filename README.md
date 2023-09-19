@@ -15,3 +15,4 @@ My journey through C#
 * [Log Analysis](https://exercism.org/tracks/csharp/exercises/log-analysis)
 
 ## Tuples
+* [Phone Number Analysis](https://exercism.org/tracks/csharp/exercises/phone-number-analysis)
