@@ -16,3 +16,6 @@ My journey through C#
 
 ## Tuples
 * [Phone Number Analysis](https://exercism.org/tracks/csharp/exercises/phone-number-analysis)
+
+## If Statements
+* [Cars, Assemble!](https://exercism.org/tracks/csharp/exercises/cars-assemble)
