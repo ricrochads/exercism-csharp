@@ -21,3 +21,7 @@ My journey through C#
 * [Cars, Assemble!](https://exercism.org/tracks/csharp/exercises/cars-assemble)
 
 ## Numbers
+* [Clock](https://exercism.org/tracks/csharp/exercises/clock)
+
+## Nullability
+* [Tim from Marketing](https://exercism.org/tracks/csharp/exercises/tim-from-marketing)
