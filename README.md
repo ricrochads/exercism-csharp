@@ -25,3 +25,6 @@ My journey through C#
 
 ## Nullability
 * [Tim from Marketing](https://exercism.org/tracks/csharp/exercises/tim-from-marketing)
+
+## Do While Loops
+* [Interest is Interesting](https://exercism.org/tracks/csharp/exercises/interest-is-interesting)
