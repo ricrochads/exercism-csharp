@@ -1,5 +1,4 @@
 # Exercism CSharp
-My journey through C#
 
 ## Basics
 * [Hello, World!](https://exercism.org/tracks/csharp/exercises/hello-world)
