@@ -9,6 +9,7 @@
 
 ## Strings
 * [Log Levels](https://exercism.org/tracks/csharp/exercises/log-levels)
+* [Bob](https://exercism.org/tracks/csharp/exercises/bob)
 
 ## Extension Methods
 * [Log Analysis](https://exercism.org/tracks/csharp/exercises/log-analysis)
