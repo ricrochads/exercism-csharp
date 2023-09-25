@@ -32,3 +32,4 @@
 
 ## Floating Point Numbers
 * [Darts](https://exercism.org/tracks/csharp/exercises/darts)
+* [Triangle](https://exercism.org/tracks/csharp/exercises/triangle)
