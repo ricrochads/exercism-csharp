@@ -33,3 +33,6 @@
 ## Floating Point Numbers
 * [Darts](https://exercism.org/tracks/csharp/exercises/darts)
 * [Triangle](https://exercism.org/tracks/csharp/exercises/triangle)
+
+## While Loops
+* [Roman Numerals](https://exercism.org/tracks/csharp/exercises/roman-numerals)
