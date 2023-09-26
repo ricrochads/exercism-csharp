@@ -39,3 +39,6 @@
 
 ## Randomness
 * [Roll the Die!](https://exercism.org/tracks/csharp/exercises/roll-the-die)
+
+## Classes
+* [Elon's Toys](https://exercism.org/tracks/csharp/exercises/elons-toys)
