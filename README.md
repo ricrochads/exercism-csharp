@@ -36,3 +36,6 @@
 
 ## While Loops
 * [Roman Numerals](https://exercism.org/tracks/csharp/exercises/roman-numerals)
+
+## Randomness
+* [Roll the Die!](https://exercism.org/tracks/csharp/exercises/roll-the-die)
