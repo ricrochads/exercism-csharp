@@ -44,4 +44,10 @@
 * [Elon's Toys](https://exercism.org/tracks/csharp/exercises/elons-toys)
 
 ## Constructors
-* [Need for Speed]
+* [Need for Speed](https://exercism.org/tracks/csharp/exercises/need-for-speed)
+
+## Datetimes
+* [Booking up for Beauty](https://exercism.org/tracks/csharp/exercises/booking-up-for-beauty)
+
+## Arrays
+* [Bird Watcher](https://exercism.org/tracks/csharp/exercises/bird-watcher)
