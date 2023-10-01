@@ -8,8 +8,8 @@
 * [Annalyn's Infiltration](https://exercism.org/tracks/csharp/exercises/annalyns-infiltration)
 
 ## Strings
-* [Log Levels](https://exercism.org/tracks/csharp/exercises/log-levels)
-* [Bob](https://exercism.org/tracks/csharp/exercises/bob)
+| [Log Levels](https://exercism.org/tracks/csharp/exercises/log-levels) | [Bob](https://exercism.org/tracks/csharp/exercises/bob) |
+| :---: | :---: |
 
 ## Extension Methods
 * [Log Analysis](https://exercism.org/tracks/csharp/exercises/log-analysis)
@@ -21,8 +21,8 @@
 * [Cars, Assemble!](https://exercism.org/tracks/csharp/exercises/cars-assemble)
 
 ## Numbers
-* [Leap](https://exercism.org/tracks/csharp/exercises/leap)
-* [Clock](https://exercism.org/tracks/csharp/exercises/clock)
+| :---: | :---: |
+| [Leap](https://exercism.org/tracks/csharp/exercises/leap) | [Clock](https://exercism.org/tracks/csharp/exercises/clock) |
 
 ## Nullability
 * [Tim from Marketing](https://exercism.org/tracks/csharp/exercises/tim-from-marketing)
