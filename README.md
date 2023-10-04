@@ -67,3 +67,7 @@
 ## For Loops
 | [Bird Watcher](https://exercism.org/tracks/csharp/exercises/bird-watcher) |
 | :---: |
+
+## Foreach Loops
+| [Bird Watcher](https://exercism.org/tracks/csharp/exercises/bird-watcher) |
+| :---: |
