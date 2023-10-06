@@ -68,6 +68,9 @@
 | [Bird Watcher](https://exercism.org/tracks/csharp/exercises/bird-watcher) |
 | :---: |
 
+## Inheritance
+| [Wizards and Warriors](https://exercism.org/tracks/csharp/exercises/wizards-and-warriors) |
+
 ## Foreach Loops
 | [Bird Watcher](https://exercism.org/tracks/csharp/exercises/bird-watcher) |
 | :---: |
