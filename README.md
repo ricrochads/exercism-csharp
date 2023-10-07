@@ -65,7 +65,7 @@
 | :---: |
 
 ## For Loops
-| [Bird Watcher](https://exercism.org/tracks/csharp/exercises/bird-watcher) |
+| [Binary Search](https://exercism.org/tracks/csharp/exercises/binary-search) |
 | :---: |
 
 ## Foreach Loops
