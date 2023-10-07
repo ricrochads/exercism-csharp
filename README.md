@@ -69,7 +69,7 @@
 | :---: |
 
 ## Foreach Loops
-| [Bird Watcher](https://exercism.org/tracks/csharp/exercises/bird-watcher) |
+| [Sum of Multiples](https://exercism.org/tracks/csharp/exercises/sum-of-multiples) |
 | :---: |
 
 ## Inheritance
