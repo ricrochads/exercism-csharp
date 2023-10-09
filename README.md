@@ -63,3 +63,6 @@
 
 ### Generic Types
 * [Tracks on Tracks on Tracks](https://exercism.org/tracks/csharp/exercises/tracks-on-tracks-on-tracks)
+
+### Integral Numbers
+* [Hyper-optimized Telemetry](https://exercism.org/tracks/csharp/exercises/hyper-optimized-telemetry) 
