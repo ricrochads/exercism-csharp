@@ -22,7 +22,6 @@
 
 ### Numbers
 * [Leap](https://exercism.org/tracks/csharp/exercises/leap)
-* [Clock](https://exercism.org/tracks/csharp/exercises/clock)
 
 ### Nullability
 * [Tim from Marketing](https://exercism.org/tracks/csharp/exercises/tim-from-marketing)
