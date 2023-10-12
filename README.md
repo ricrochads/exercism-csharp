@@ -68,3 +68,6 @@
 
 ### Chars
 * [Squeaky Clean](https://exercism.org/tracks/csharp/exercises/squeaky-clean)
+
+### String Builde
+* [Squeaky Clean](https://exercism.org/tracks/csharp/exercises/squeaky-clean)
