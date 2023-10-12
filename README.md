@@ -69,5 +69,5 @@
 ### Chars
 * [Squeaky Clean](https://exercism.org/tracks/csharp/exercises/squeaky-clean)
 
-### String Builde
+### String Builder
 * [Squeaky Clean](https://exercism.org/tracks/csharp/exercises/squeaky-clean)
