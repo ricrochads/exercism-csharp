@@ -71,3 +71,6 @@
 
 ### String Builder
 * [Squeaky Clean](https://exercism.org/tracks/csharp/exercises/squeaky-clean)
+
+### Dictionaries
+* [International Calling Connoisseur](https://exercism.org/tracks/csharp/exercises/international-calling-connoisseur)
