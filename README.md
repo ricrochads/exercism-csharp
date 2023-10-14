@@ -74,3 +74,6 @@
 
 ### Dictionaries
 * [International Calling Connoisseur](https://exercism.org/tracks/csharp/exercises/international-calling-connoisseur)
+
+### Switch Statements
+* [Football Match Reports](https://exercism.org/tracks/csharp/exercises/football-match-reports)
