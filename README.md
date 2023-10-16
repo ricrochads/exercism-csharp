@@ -77,3 +77,6 @@
 
 ### Switch Statements
 * [Football Match Reports](https://exercism.org/tracks/csharp/exercises/football-match-reports)
+
+### Enums
+* [Logs, Logs, Logs!](https://exercism.org/tracks/csharp/exercises/logs-logs-logs)
