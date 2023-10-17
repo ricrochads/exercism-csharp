@@ -80,3 +80,6 @@
 
 ### Enums
 * [Logs, Logs, Logs!](https://exercism.org/tracks/csharp/exercises/logs-logs-logs)
+
+### Time
+* [Beauty Salon Goes Global](https://exercism.org/tracks/csharp/exercises/beauty-salon-goes-global)
