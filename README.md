@@ -83,3 +83,6 @@
 
 ### Time
 * [Beauty Salon Goes Global](https://exercism.org/tracks/csharp/exercises/beauty-salon-goes-global)
+
+### About Timezone
+* [Beauty Salon Goes Global](https://exercism.org/tracks/csharp/exercises/beauty-salon-goes-global)
