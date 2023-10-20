@@ -86,3 +86,39 @@
 
 ### Timezone
 * [Beauty Salon Goes Global](https://exercism.org/tracks/csharp/exercises/beauty-salon-goes-global)
+
+### Exceptions
+### Casting
+### Overflow
+### Properties
+### Attributes
+### Flag Enums
+### Resource Cleanup
+### String Formatting
+### Verbatim Strings
+### Interfaces
+### Ordering
+### Exception Filtering
+### User Defined Exceptions
+### Resource Lifetime
+### Conditionals Ternary
+### Expression Bodied Members
+### Switch Expressions
+### Throw Expressions
+### Method Overloading
+### Named Arguments
+### Optional Parameters
+### Object Initializers
+### Regular Expressions
+### Equality
+### Sets
+### Parameters
+### Structs
+### Operator Overloading
+### Nested Types
+### Constants
+### Defensive Copying
+### Readonly Collections
+### Namespaces
+
+
