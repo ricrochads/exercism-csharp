@@ -88,6 +88,8 @@
 * [Beauty Salon Goes Global](https://exercism.org/tracks/csharp/exercises/beauty-salon-goes-global)
 
 ### Exceptions
+* [Calculator Conundrum](https://exercism.org/tracks/csharp/exercises/calculator-conundrum)
+  
 ### Casting
 ### Overflow
 ### Properties
