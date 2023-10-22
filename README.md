@@ -91,6 +91,8 @@
 * [Calculator Conundrum](https://exercism.org/tracks/csharp/exercises/calculator-conundrum)
   
 ### Casting
+* [Secure Munchester United](https://exercism.org/tracks/csharp/exercises/secure-munchester-united)
+  
 ### Overflow
 ### Properties
 ### Attributes
