@@ -94,6 +94,8 @@
 * [Secure Munchester United](https://exercism.org/tracks/csharp/exercises/secure-munchester-united)
   
 ### Overflow
+* [Hyperinflation Hits Hyperia](https://exercism.org/tracks/csharp/exercises/hyperinflation-hits-hyperia)
+
 ### Properties
 ### Attributes
 ### Flag Enums
