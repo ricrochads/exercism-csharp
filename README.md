@@ -99,6 +99,8 @@
 * [Hyperinflation Hits Hyperia](https://exercism.org/tracks/csharp/exercises/hyperinflation-hits-hyperia)
 
 ### Properties
+* [Weighing Machine](https://exercism.org/tracks/csharp/exercises/weighing-machine)
+
 ### Attributes
 ### Flag Enums
 ### Resource Cleanup
