@@ -8,8 +8,10 @@
 * [Annalyn's Infiltration](https://exercism.org/tracks/csharp/exercises/annalyns-infiltration)
 
 ### Strings
-* [Log Levels](https://exercism.org/tracks/csharp/exercises/log-levels)
 * [Bob](https://exercism.org/tracks/csharp/exercises/bob)
+* [Isogram](https://exercism.org/tracks/csharp/exercises/isogram)
+* [Log Levels](https://exercism.org/tracks/csharp/exercises/log-levels)
+* [Pangram](https://exercism.org/tracks/csharp/exercises/pangram)
 
 ### Extension Methods
 * [Log Analysis](https://exercism.org/tracks/csharp/exercises/log-analysis)
