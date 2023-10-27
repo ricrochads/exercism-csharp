@@ -12,6 +12,7 @@
 * [Isogram](https://exercism.org/tracks/csharp/exercises/isogram)
 * [Log Levels](https://exercism.org/tracks/csharp/exercises/log-levels)
 * [Pangram](https://exercism.org/tracks/csharp/exercises/pangram)
+* [Reverse String](https://exercism.org/tracks/csharp/exercises/reverse-string)
 
 ### Extension Methods
 * [Log Analysis](https://exercism.org/tracks/csharp/exercises/log-analysis)
