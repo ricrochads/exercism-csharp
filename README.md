@@ -16,6 +16,7 @@
 
 ### Extension Methods
 * [Log Analysis](https://exercism.org/tracks/csharp/exercises/log-analysis)
+* [Accumulate](https://exercism.org/tracks/csharp/exercises/accumulate)
 
 ### Tuples
 * [Phone Number Analysis](https://exercism.org/tracks/csharp/exercises/phone-number-analysis)
