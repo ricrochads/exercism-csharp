@@ -45,6 +45,7 @@
 
 ### Randomness
 * [Roll the Die!](https://exercism.org/tracks/csharp/exercises/roll-the-die)
+* [Robot Name](https://exercism.org/tracks/csharp/exercises/robot-name)
 
 ### Classes
 * [Elon's Toys](https://exercism.org/tracks/csharp/exercises/elons-toys)
