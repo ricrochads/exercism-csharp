@@ -41,6 +41,7 @@
 
 ### While Loops
 * [Roman Numerals](https://exercism.org/tracks/csharp/exercises/roman-numerals)
+* [Protein Translation](https://exercism.org/tracks/csharp/exercises/protein-translation)
 
 ### Randomness
 * [Roll the Die!](https://exercism.org/tracks/csharp/exercises/roll-the-die)
