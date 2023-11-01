@@ -55,6 +55,7 @@
 
 ### Datetimes
 * [Booking up for Beauty](https://exercism.org/tracks/csharp/exercises/booking-up-for-beauty)
+* [Gigasecond](https://exercism.org/tracks/csharp/exercises/gigasecond)
 
 ### Arrays
 * [Bird Watcher](https://exercism.org/tracks/csharp/exercises/bird-watcher)
