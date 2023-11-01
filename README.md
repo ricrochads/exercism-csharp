@@ -59,6 +59,7 @@
 
 ### Arrays
 * [Bird Watcher](https://exercism.org/tracks/csharp/exercises/bird-watcher)
+* [Resistor Color](https://exercism.org/tracks/csharp/exercises/resistor-color)
 
 ### For Loops
 * [Binary Search](https://exercism.org/tracks/csharp/exercises/binary-search)
