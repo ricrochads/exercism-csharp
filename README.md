@@ -27,6 +27,7 @@
 ### Numbers
 * [Leap](https://exercism.org/tracks/csharp/exercises/leap)
 * [Difference of Squares](https://exercism.org/tracks/csharp/exercises/difference-of-squares)
+* [Perfect Numbers](https://exercism.org/tracks/csharp/exercises/perfect-numbers)
 
 ### Nullability
 * [Tim from Marketing](https://exercism.org/tracks/csharp/exercises/tim-from-marketing)
