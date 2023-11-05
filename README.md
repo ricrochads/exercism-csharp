@@ -91,6 +91,7 @@
 
 ### Switch Statements
 * [Football Match Reports](https://exercism.org/tracks/csharp/exercises/football-match-reports)
+* [Beer Song](https://exercism.org/tracks/csharp/exercises/beer-song)
 
 ### Enums
 * [Logs, Logs, Logs!](https://exercism.org/tracks/csharp/exercises/logs-logs-logs)
