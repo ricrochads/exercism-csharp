@@ -81,6 +81,7 @@
 * [Squeaky Clean](https://exercism.org/tracks/csharp/exercises/squeaky-clean)
 
 ### Lists
+* [High Scores](https://exercism.org/tracks/csharp/exercises/high-scores)
 
 ### String Builder
 * [Squeaky Clean](https://exercism.org/tracks/csharp/exercises/squeaky-clean)
@@ -91,6 +92,7 @@
 
 ### Switch Statements
 * [Football Match Reports](https://exercism.org/tracks/csharp/exercises/football-match-reports)
+* [Beer Song](https://exercism.org/tracks/csharp/exercises/beer-song)
 
 ### Enums
 * [Logs, Logs, Logs!](https://exercism.org/tracks/csharp/exercises/logs-logs-logs)
