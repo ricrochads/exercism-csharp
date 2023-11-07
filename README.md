@@ -81,6 +81,7 @@
 * [Squeaky Clean](https://exercism.org/tracks/csharp/exercises/squeaky-clean)
 
 ### Lists
+* [High Scores](https://exercism.org/tracks/csharp/exercises/high-scores)
 
 ### String Builder
 * [Squeaky Clean](https://exercism.org/tracks/csharp/exercises/squeaky-clean)
