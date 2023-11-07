@@ -32,4 +32,10 @@ public class GigasecondTests
     {
         Assert.Equal(new DateTime(2046, 10, 3, 1, 46, 39), Gigasecond.Add(new DateTime(2015, 1, 24, 23, 59, 59)));
     }
+
+    [Fact]
+    public void Full_time_roll_over_correct_date_time()
+    {
+        Assert.Equal(new DateTime(2054, 9, 8, 1, 46, 38),  Gigasecond.Add(new DateTime(2022, 12, 31, 23, 59, 59)));
+    }
 }
