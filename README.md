@@ -1,4 +1,8 @@
 # Exercism CSharp
+Challenges to enhance logic and programming skills in C#.
+
+## About Lamguage
+C# is a statically-typed, multi-paradigm programming language with integrated querying, offering object-oriented, declarative, functional, generic, and lazy features, as well as type inference. It also provides capabilities for multi-threading, parallelization, asynchrony, managing unmanaged code within a managed environment, and language interoperability. C# is developed and maintained by Microsoft.
 
 ### Basics
 * [Hello, World!](https://exercism.org/tracks/csharp/exercises/hello-world)
