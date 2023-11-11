@@ -5,6 +5,7 @@ Challenges to enhance logic and programming skills in the C# language.
 C# is a statically-typed, multi-paradigm programming language with integrated querying, offering object-oriented, declarative, functional, generic, and lazy features, as well as type inference. It also provides capabilities for multi-threading, parallelization, asynchrony, unmanaged code in a managed environment and language interoperability. C# is developed and maintained by Microsoft.
 
 ### Basics
+Variables have types defined at compile time. Assigning values to variables can be done explicitly, by specifying the type, or implicitly using the 'var' keyword. Once defined, the type of a variable cannot be changed. The C# language is object-oriented, requiring all functions to be defined in a class. Methods within a class are invoked using the dot syntax, and static methods can be called in the class itself. Fundamental concepts include mutation (changing variable values) and scope (limits on access to values).
 * [Hello, World!](https://exercism.org/tracks/csharp/exercises/hello-world)
 * [Lucian's Luscious Lasagna](https://exercism.org/tracks/csharp/exercises/lucians-luscious-lasagna)
 
