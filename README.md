@@ -19,6 +19,7 @@ Variables have types defined at compile time. Assigning values to variables can 
 * [Pangram](https://exercism.org/tracks/csharp/exercises/pangram)
 * [Reverse String](https://exercism.org/tracks/csharp/exercises/reverse-string)
 * [Rotational Cipher](https://exercism.org/tracks/csharp/exercises/rotational-cipher)
+* [Run-Length Encoding](https://exercism.org/tracks/csharp/exercises/run-length-encoding)
 
 ### Extension Methods
 * [Log Analysis](https://exercism.org/tracks/csharp/exercises/log-analysis)
