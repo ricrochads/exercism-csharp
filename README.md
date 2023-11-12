@@ -97,8 +97,9 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Squeaky Clean](https://exercism.org/tracks/csharp/exercises/squeaky-clean)
 
 ### Dictionaries
-* [International Calling Connoisseur](https://exercism.org/tracks/csharp/exercises/international-calling-connoisseur)
+The dictionary is a collection of elements with a key and a value. If a key is passed into the dictionary method, the value associated with the key is returned.
 * [Scrabble Score](https://exercism.org/tracks/csharp/exercises/scrabble-score)
+* [International Calling Connoisseur](https://exercism.org/tracks/csharp/exercises/international-calling-connoisseur)
 
 ### Switch Statements
 * [Football Match Reports](https://exercism.org/tracks/csharp/exercises/football-match-reports)
