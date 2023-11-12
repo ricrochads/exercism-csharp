@@ -10,6 +10,8 @@ In C#, variables have types defined at compile time. Assigning values to variabl
 * [Lucian's Luscious Lasagna](https://exercism.org/tracks/csharp/exercises/lucians-luscious-lasagna)
 
 ### Boleans
+Booleans are represented by the bool type, with values of true or false. 
+There are four supported boolean operators: ! (NOT), && (AND), || (OR) and ^ (XOR).
 * [Annalyn's Infiltration](https://exercism.org/tracks/csharp/exercises/annalyns-infiltration)
 
 ### Strings
