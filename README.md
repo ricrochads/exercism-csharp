@@ -10,15 +10,16 @@ In C#, variables have types defined at compile time. Assigning values to variabl
 * [Lucian's Luscious Lasagna](https://exercism.org/tracks/csharp/exercises/lucians-luscious-lasagna)
 
 ### Boleans
-Booleans are represented by the bool type, with values of true or false. 
+Booleans are represented by the bool type, with values of true or false.
 There are four supported boolean operators: ! (NOT), && (AND), || (OR) and ^ (XOR).
 * [Annalyn's Infiltration](https://exercism.org/tracks/csharp/exercises/annalyns-infiltration)
 
 ### Strings
+A string is an immutable instance, and manipulation occurs through methods or properties, resulting in a new string. Strings are delimited by double quotes. Concatenation can be done with the + operator, but for more complex formatting, the $ symbol is used for string interpolation.
 * [Bob](https://exercism.org/tracks/csharp/exercises/bob)
 * [Isogram](https://exercism.org/tracks/csharp/exercises/isogram)
-* [Log Levels](https://exercism.org/tracks/csharp/exercises/log-levels)
 * [Pangram](https://exercism.org/tracks/csharp/exercises/pangram)
+* [Log Levels](https://exercism.org/tracks/csharp/exercises/log-levels)
 * [Reverse String](https://exercism.org/tracks/csharp/exercises/reverse-string)
 * [Rotational Cipher](https://exercism.org/tracks/csharp/exercises/rotational-cipher)
 * [Run-Length Encoding](https://exercism.org/tracks/csharp/exercises/run-length-encoding)
