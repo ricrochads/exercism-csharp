@@ -29,6 +29,7 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Accumulate](https://exercism.org/tracks/csharp/exercises/accumulate)
 
 ### Tuples
+* [Dominoes](https://exercism.org/tracks/csharp/exercises/dominoes)
 * [Phone Number Analysis](https://exercism.org/tracks/csharp/exercises/phone-number-analysis)
 
 ### If Statements
