@@ -129,6 +129,8 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [Weighing Machine](https://exercism.org/tracks/csharp/exercises/weighing-machine)
 
 ### Attributes
+* [Attack of the Trolls](https://exercism.org/tracks/csharp/exercises/attack-of-the-trolls)
+
 ### Flag Enums
 ### Resource Cleanup
 ### String Formatting
