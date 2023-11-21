@@ -104,8 +104,9 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [International Calling Connoisseur](https://exercism.org/tracks/csharp/exercises/international-calling-connoisseur)
 
 ### Switch Statements
-* [Football Match Reports](https://exercism.org/tracks/csharp/exercises/football-match-reports)
 * [Beer Song](https://exercism.org/tracks/csharp/exercises/beer-song)
+* [Rectangles](https://exercism.org/tracks/csharp/exercises/rectangles)
+* [Football Match Reports](https://exercism.org/tracks/csharp/exercises/football-match-reports)
 
 ### Enums
 * [Logs, Logs, Logs!](https://exercism.org/tracks/csharp/exercises/logs-logs-logs)
