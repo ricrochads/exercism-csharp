@@ -133,6 +133,7 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [Attack of the Trolls](https://exercism.org/tracks/csharp/exercises/attack-of-the-trolls)
 
 ### Flag Enums
+* [Allergies](https://exercism.org/tracks/csharp/exercises/allergies)
 ### Resource Cleanup
 ### String Formatting
 ### Verbatim Strings
