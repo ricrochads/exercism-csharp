@@ -134,7 +134,10 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 
 ### Flag Enums
 * [Allergies](https://exercism.org/tracks/csharp/exercises/allergies)
+
 ### Resource Cleanup
+* [Object Relational Mapping](https://exercism.org/tracks/csharp/exercises/object-relational-mapping)
+
 ### String Formatting
 ### Verbatim Strings
 ### Interfaces
