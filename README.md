@@ -139,6 +139,8 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [Object Relational Mapping](https://exercism.org/tracks/csharp/exercises/object-relational-mapping)
 
 ### String Formatting
+*[High School Sweethearts](https://exercism.org/tracks/csharp/exercises/high-school-sweethearts)
+
 ### Verbatim Strings
 ### Interfaces
 ### Ordering
