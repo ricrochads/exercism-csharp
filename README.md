@@ -109,6 +109,7 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [Football Match Reports](https://exercism.org/tracks/csharp/exercises/football-match-reports)
 
 ### Enums
+* [Allergies](https://exercism.org/tracks/csharp/exercises/allergies)
 * [Logs, Logs, Logs!](https://exercism.org/tracks/csharp/exercises/logs-logs-logs)
 
 ### Time
@@ -139,7 +140,7 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [Object Relational Mapping](https://exercism.org/tracks/csharp/exercises/object-relational-mapping)
 
 ### String Formatting
-*[High School Sweethearts](https://exercism.org/tracks/csharp/exercises/high-school-sweethearts)
+* [High School Sweethearts](https://exercism.org/tracks/csharp/exercises/high-school-sweethearts)
 
 ### Verbatim Strings
 ### Interfaces
