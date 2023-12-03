@@ -143,7 +143,11 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [High School Sweethearts](https://exercism.org/tracks/csharp/exercises/high-school-sweethearts)
 
 ### Verbatim Strings
+* [High School Sweethearts](https://exercism.org/tracks/csharp/exercises/high-school-sweethearts)
+
 ### Interfaces
+*[Remote Control Competition](https://exercism.org/tracks/csharp/exercises/remote-control-competition)
+
 ### Ordering
 ### Exception Filtering
 ### User Defined Exceptions
