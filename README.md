@@ -146,30 +146,74 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [High School Sweethearts](https://exercism.org/tracks/csharp/exercises/high-school-sweethearts)
 
 ### Interfaces
-*[Remote Control Competition](https://exercism.org/tracks/csharp/exercises/remote-control-competition)
+* [Remote Control Competition](https://exercism.org/tracks/csharp/exercises/remote-control-competition)
 
 ### Ordering
+* [Remote Control Competition](https://exercism.org/tracks/csharp/exercises/remote-control-competition)
+
 ### Exception Filtering
+* [Instruments of Texas](https://exercism.org/tracks/csharp/exercises/instruments-of-texas)
+
 ### User Defined Exceptions
+* [Instruments of Texas](https://exercism.org/tracks/csharp/exercises/instruments-of-texas)
+  
 ### Resource Lifetime
+* [Orm in One Go](https://exercism.org/tracks/csharp/exercises/orm-in-one-go)
+
 ### Conditionals Ternary
+* [Conditionals Ternary](https://exercism.org/tracks/csharp/concepts/ternary-operators)
+
 ### Expression Bodied Members
+* [The Weather in Deather](https://exercism.org/tracks/csharp/exercises/the-weather-in-deather)
+
 ### Switch Expressions
+* [The Weather in Deather](https://exercism.org/tracks/csharp/exercises/the-weather-in-deather)
+
 ### Throw Expressions
+* [The Weather in Deather](https://exercism.org/tracks/csharp/exercises/the-weather-in-deather)
+
 ### Method Overloading
+* [Wizards and Warriors 2.0](https://exercism.org/tracks/csharp/exercises/wizards-and-warriors-2)
+
 ### Named Arguments
+* [Wizards and Warriors 2.0](https://exercism.org/tracks/csharp/exercises/wizards-and-warriors-2)
+
 ### Optional Parameters
+* [Wizards and Warriors 2.0](https://exercism.org/tracks/csharp/exercises/wizards-and-warriors-2)
+
 ### Object Initializers
+* [Developer Privileges](https://exercism.org/tracks/csharp/exercises/developer-privileges)
+
 ### Regular Expressions
+* [Parsing Log Files](https://exercism.org/tracks/csharp/exercises/parsing-log-files)
+
 ### Equality
+* [Face ID 2.0](https://exercism.org/tracks/csharp/exercises/faceid-2)
+
 ### Sets
+* [Face ID 2.0](https://exercism.org/tracks/csharp/exercises/faceid-2)
+
 ### Parameters
+* [Building Telemetry](https://exercism.org/tracks/csharp/exercises/building-telemetry)
+
 ### Structs
+* [Land Grab in Space](https://exercism.org/tracks/csharp/exercises/land-grab-in-space)
+
 ### Operator Overloading
+* [Hyperia Forex](https://exercism.org/tracks/csharp/exercises/hyperia-forex)
+
 ### Nested Types
+* [Remote Control Cleanup](https://exercism.org/tracks/csharp/exercises/remote-control-cleanup)
+
 ### Constants
+* [Authentication System](https://exercism.org/tracks/csharp/exercises/authentication-system)
+
 ### Defensive Copying
+* [Authentication System](https://exercism.org/tracks/csharp/exercises/authentication-system)
+
 ### Readonly Collections
+* [Authentication System](https://exercism.org/tracks/csharp/exercises/authentication-system)
+
 ### Namespaces
-*[Red vs. Blue: Darwin Style](https://exercism.org/tracks/csharp/exercises/red-vs-blue-darwin-style)
+* [Red vs. Blue: Darwin Style](https://exercism.org/tracks/csharp/exercises/red-vs-blue-darwin-style)
 
