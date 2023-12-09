@@ -30,6 +30,11 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 
 ### Tuples
 * [Dominoes](https://exercism.org/tracks/csharp/exercises/dominoes)
+* [Go Counting](https://exercism.org/tracks/csharp/exercises/go-counting)
+* [Word Search](https://exercism.org/tracks/csharp/exercises/word-search)
+* [Saddle Points](https://exercism.org/tracks/csharp/exercises/saddle-points)
+* [Pythagorean Triplet](https://exercism.org/tracks/csharp/exercises/pythagorean-triplet)
+* [Palindrome Products](https://exercism.org/tracks/csharp/exercises/palindrome-products)
 * [Phone Number Analysis](https://exercism.org/tracks/csharp/exercises/phone-number-analysis)
 
 ### If Statements
