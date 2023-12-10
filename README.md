@@ -49,10 +49,15 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 
 ### Numbers
 * [Leap](https://exercism.org/tracks/csharp/exercises/leap)
-* [Difference of Squares](https://exercism.org/tracks/csharp/exercises/difference-of-squares)
+* [Clock](https://exercism.org/tracks/csharp/exercises/clock)
+* [Spiral Matrix](https://exercism.org/tracks/csharp/exercises/spiral-matrix)
 * [Perfect Numbers](https://exercism.org/tracks/csharp/exercises/perfect-numbers)
+* [Collatz Conjecture](https://exercism.org/tracks/csharp/exercises/collatz-conjecture)
+* [Difference of Squares](https://exercism.org/tracks/csharp/exercises/difference-of-squares)
 
 ### Nullability
+* [Bowling](https://exercism.org/tracks/csharp/exercises/bowling)
+* [Word Search](https://exercism.org/tracks/csharp/exercises/word-search)
 * [Tim from Marketing](https://exercism.org/tracks/csharp/exercises/tim-from-marketing)
 
 ### Do While Loops
