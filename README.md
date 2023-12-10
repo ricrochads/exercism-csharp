@@ -25,8 +25,10 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Run-Length Encoding](https://exercism.org/tracks/csharp/exercises/run-length-encoding)
 
 ### Extension Methods
-* [Log Analysis](https://exercism.org/tracks/csharp/exercises/log-analysis)
 * [Accumulate](https://exercism.org/tracks/csharp/exercises/accumulate)
+* [Log Analysis](https://exercism.org/tracks/csharp/exercises/log-analysis)
+* [Complex Numbers](https://exercism.org/tracks/csharp/exercises/complex-numbers)
+* [Rational Numbers](https://exercism.org/tracks/csharp/exercises/rational-numbers)
 
 ### Tuples
 * [Dominoes](https://exercism.org/tracks/csharp/exercises/dominoes)
@@ -38,7 +40,12 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Phone Number Analysis](https://exercism.org/tracks/csharp/exercises/phone-number-analysis)
 
 ### If Statements
+* [Grep](https://exercism.org/tracks/csharp/exercises/grep)
+* [Hamming](https://exercism.org/tracks/csharp/exercises/hamming)
+* [Raindrops](https://exercism.org/tracks/csharp/exercises/raindrops)
+* [Food Chain](https://exercism.org/tracks/csharp/exercises/food-chain)
 * [Cars, Assemble!](https://exercism.org/tracks/csharp/exercises/cars-assemble)
+* [Collatz Conjecture](https://exercism.org/tracks/csharp/exercises/collatz-conjecture)
 
 ### Numbers
 * [Leap](https://exercism.org/tracks/csharp/exercises/leap)
