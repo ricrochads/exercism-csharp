@@ -67,9 +67,15 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Darts](https://exercism.org/tracks/csharp/exercises/darts)
 * [Triangle](https://exercism.org/tracks/csharp/exercises/triangle)
 * [Space Age](https://exercism.org/tracks/csharp/exercises/space-age)
+* [Book Store](https://exercism.org/tracks/csharp/exercises/book-store)
+* [Bank Account](https://exercism.org/tracks/csharp/exercises/bank-account)
 
 ### While Loops
+* [Say](https://exercism.org/tracks/csharp/exercises/say)
+* [All Your Base](https://exercism.org/tracks/csharp/exercises/all-your-base)
+* [Prime Factors](https://exercism.org/tracks/csharp/exercises/prime-factors)
 * [Roman Numerals](https://exercism.org/tracks/csharp/exercises/roman-numerals)
+* [Collatz Conjecture](https://exercism.org/tracks/csharp/exercises/collatz-conjecture)
 * [Protein Translation](https://exercism.org/tracks/csharp/exercises/protein-translation)
 
 ### Randomness
