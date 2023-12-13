@@ -79,8 +79,11 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Protein Translation](https://exercism.org/tracks/csharp/exercises/protein-translation)
 
 ### Randomness
-* [Roll the Die!](https://exercism.org/tracks/csharp/exercises/roll-the-die)
 * [Robot Name](https://exercism.org/tracks/csharp/exercises/robot-name)
+* [D&D Character](https://exercism.org/tracks/csharp/exercises/dnd-character)
+* [Roll the Die!](https://exercism.org/tracks/csharp/exercises/roll-the-die)
+* [Simple Cipher](https://exercism.org/tracks/csharp/exercises/simple-cipher)
+* [Diffie-Hellman](https://exercism.org/tracks/csharp/exercises/diffie-hellman)
 
 ### Classes
 * [Elon's Toys](https://exercism.org/tracks/csharp/exercises/elons-toys)
