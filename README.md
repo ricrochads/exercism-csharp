@@ -86,7 +86,13 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Diffie-Hellman](https://exercism.org/tracks/csharp/exercises/diffie-hellman)
 
 ### Classes
+* [Matrix](https://exercism.org/tracks/csharp/exercises/matrix)
+* [Anagram](https://exercism.org/tracks/csharp/exercises/anagram)
+* [Bowling](https://exercism.org/tracks/csharp/exercises/bowling)
+* [DOT DSL](https://exercism.org/tracks/csharp/exercises/dot-dsl)
 * [Elon's Toys](https://exercism.org/tracks/csharp/exercises/elons-toys)
+* [Simple Cipher](https://exercism.org/tracks/csharp/exercises/simple-cipher)
+* [Tree Building](https://exercism.org/tracks/csharp/exercises/tree-building)
 
 ### Constructors
 * [Need for Speed](https://exercism.org/tracks/csharp/exercises/need-for-speed)
