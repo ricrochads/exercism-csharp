@@ -96,6 +96,7 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 
 ### Constructors
 * [Need for Speed](https://exercism.org/tracks/csharp/exercises/need-for-speed)
+* [Rail Fence Cipher](https://exercism.org/tracks/csharp/exercises/rail-fence-cipher)
 
 ### Datetimes
 * [Booking up for Beauty](https://exercism.org/tracks/csharp/exercises/booking-up-for-beauty)
