@@ -103,6 +103,7 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Gigasecond](https://exercism.org/tracks/csharp/exercises/gigasecond)
 
 ### Arrays
+* [Proverb](https://exercism.org/tracks/csharp/exercises/proverb)
 * [Bird Watcher](https://exercism.org/tracks/csharp/exercises/bird-watcher)
 * [Resistor Color](https://exercism.org/tracks/csharp/exercises/resistor-color)
 * [Resistor Color Duo](https://exercism.org/tracks/csharp/exercises/resistor-color-duo)
