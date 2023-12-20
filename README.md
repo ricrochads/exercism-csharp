@@ -95,8 +95,16 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Tree Building](https://exercism.org/tracks/csharp/exercises/tree-building)
 
 ### Constructors
+* [Custom Set](https://exercism.org/tracks/csharp/exercises/custom-set)
+* [Two Bucket](https://exercism.org/tracks/csharp/exercises/two-bucket)
+* [SGF Parsing](https://exercism.org/tracks/csharp/exercises/sgf-parsing)
+* [Word Search](https://exercism.org/tracks/csharp/exercises/word-search)
+* [Queen Attack](https://exercism.org/tracks/csharp/exercises/queen-attack)
+* [D&D Character](https://exercism.org/tracks/csharp/exercises/dnd-character)
 * [Need for Speed](https://exercism.org/tracks/csharp/exercises/need-for-speed)
+* [Robot Simulator](https://exercism.org/tracks/csharp/exercises/robot-simulator)
 * [Rail Fence Cipher](https://exercism.org/tracks/csharp/exercises/rail-fence-cipher)
+* [Binary Search Tree](https://exercism.org/tracks/csharp/exercises/binary-search-tree)
 
 ### Datetimes
 * [Booking up for Beauty](https://exercism.org/tracks/csharp/exercises/booking-up-for-beauty)
