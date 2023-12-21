@@ -117,6 +117,10 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Resistor Color Duo](https://exercism.org/tracks/csharp/exercises/resistor-color-duo)
 
 ### For Loops
+* [Luhn](https://exercism.org/tracks/csharp/exercises/luhn)
+* [Transpose](https://exercism.org/tracks/csharp/exercises/transpose)
+* [Book Store](https://exercism.org/tracks/csharp/exercises/book-store)
+* [Rectangles](https://exercism.org/tracks/csharp/exercises/rectangles)
 * [Binary Search](https://exercism.org/tracks/csharp/exercises/binary-search)
 
 ### Foreach Loops
