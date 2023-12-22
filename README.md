@@ -124,6 +124,10 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Binary Search](https://exercism.org/tracks/csharp/exercises/binary-search)
 
 ### Foreach Loops
+* [Affine Cipher](https://exercism.org/tracks/csharp/exercises/affine-cipher)
+* [Atbash Cipher](https://exercism.org/tracks/csharp/exercises/atbash-cipher)
+* [Flatten Array](https://exercism.org/tracks/csharp/exercises/flatten-array)
+* [Scale Generator](https://exercism.org/tracks/csharp/exercises/scale-generator)
 * [Sum of Multiples](https://exercism.org/tracks/csharp/exercises/sum-of-multiples)
 
 ### Inheritance
