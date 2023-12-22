@@ -173,6 +173,9 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [Calculator Conundrum](https://exercism.org/tracks/csharp/exercises/calculator-conundrum)
   
 ### Casting
+* [Raindrops](https://exercism.org/tracks/csharp/exercises/raindrops)
+* [Error Handling](https://exercism.org/tracks/csharp/exercises/error-handling)
+* [Armstrong Numbers](https://exercism.org/tracks/csharp/exercises/armstrong-numbers)
 * [Secure Munchester United](https://exercism.org/tracks/csharp/exercises/secure-munchester-united)
   
 ### Overflow
