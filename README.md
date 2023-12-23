@@ -146,6 +146,8 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [High Scores](https://exercism.org/tracks/csharp/exercises/high-scores)
 
 ### String Builder
+* [Diamond](https://exercism.org/tracks/csharp/exercises/diamond)
+* [Markdown](https://exercism.org/tracks/csharp/exercises/markdown)
 * [Squeaky Clean](https://exercism.org/tracks/csharp/exercises/squeaky-clean)
 
 ### Dictionaries
