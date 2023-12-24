@@ -190,7 +190,9 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [Attack of the Trolls](https://exercism.org/tracks/csharp/exercises/attack-of-the-trolls)
 
 ### Flag Enums
+* [Grep](https://exercism.org/tracks/csharp/exercises/grep)
 * [Allergies](https://exercism.org/tracks/csharp/exercises/allergies)
+* [Attack of the Trolls](https://exercism.org/tracks/csharp/exercises/attack-of-the-trolls)
 
 ### Resource Cleanup
 * [Object Relational Mapping](https://exercism.org/tracks/csharp/exercises/object-relational-mapping)
