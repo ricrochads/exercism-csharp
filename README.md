@@ -140,7 +140,13 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Hyper-optimized Telemetry](https://exercism.org/tracks/csharp/exercises/hyper-optimized-telemetry)
 
 ### Chars
+* [Luhn](https://exercism.org/tracks/csharp/exercises/luhn)
+* [Acronym](https://exercism.org/tracks/csharp/exercises/acronym)
+* [OCR Numbers](https://exercism.org/tracks/csharp/exercises/ocr-numbers)
+* [ISBN Verifier](https://exercism.org/tracks/csharp/exercises/isbn-verifier)
 * [Squeaky Clean](https://exercism.org/tracks/csharp/exercises/squeaky-clean)
+* [RNA Transcription](https://exercism.org/tracks/csharp/exercises/rna-transcription)
+* [Rotational Cipher](https://exercism.org/tracks/csharp/exercises/rotational-cipher)
 
 ### Lists
 * [Sublist](https://exercism.org/tracks/csharp/exercises/sublist)
