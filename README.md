@@ -107,8 +107,9 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Binary Search Tree](https://exercism.org/tracks/csharp/exercises/binary-search-tree)
 
 ### Datetimes
-* [Booking up for Beauty](https://exercism.org/tracks/csharp/exercises/booking-up-for-beauty)
+* [Meetup](https://exercism.org/tracks/csharp/exercises/meetup)
 * [Gigasecond](https://exercism.org/tracks/csharp/exercises/gigasecond)
+* [Booking up for Beauty](https://exercism.org/tracks/csharp/exercises/booking-up-for-beauty)
 
 ### Arrays
 * [Proverb](https://exercism.org/tracks/csharp/exercises/proverb)
