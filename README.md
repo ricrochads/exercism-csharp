@@ -171,8 +171,13 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [Football Match Reports](https://exercism.org/tracks/csharp/exercises/football-match-reports)
 
 ### Enums
+* [Yacht](https://exercism.org/tracks/csharp/exercises/yacht)
+* [Connect](https://exercism.org/tracks/csharp/exercises/connect)
+* [Sublist](https://exercism.org/tracks/csharp/exercises/sublist)
 * [Allergies](https://exercism.org/tracks/csharp/exercises/allergies)
+* [Zebra Puzzle](https://exercism.org/tracks/csharp/exercises/zebra-puzzle)
 * [Logs, Logs, Logs!](https://exercism.org/tracks/csharp/exercises/logs-logs-logs)
+* [Kindergarten Garden](https://exercism.org/tracks/csharp/exercises/kindergarten-garden)
 
 ### Time
 * [Beauty Salon Goes Global](https://exercism.org/tracks/csharp/exercises/beauty-salon-goes-global)
