@@ -136,6 +136,8 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Wizards and Warriors](https://exercism.org/tracks/csharp/exercises/wizards-and-warriors)
 
 ### Generic Types
+* [Linked List](https://exercism.org/tracks/csharp/exercises/linked-list)
+* [Circular Buffer](https://exercism.org/tracks/csharp/exercises/circular-buffer)
 * [Tracks on Tracks on Tracks](https://exercism.org/tracks/csharp/exercises/tracks-on-tracks-on-tracks)
 
 ### Integral Numbers
