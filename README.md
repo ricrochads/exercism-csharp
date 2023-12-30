@@ -132,6 +132,7 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Sum of Multiples](https://exercism.org/tracks/csharp/exercises/sum-of-multiples)
 
 ### Inheritance
+* [Hangman](https://exercism.org/tracks/csharp/exercises/hangman)
 * [Wizards and Warriors](https://exercism.org/tracks/csharp/exercises/wizards-and-warriors)
 
 ### Generic Types
