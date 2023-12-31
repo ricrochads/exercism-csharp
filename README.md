@@ -189,8 +189,15 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [Beauty Salon Goes Global](https://exercism.org/tracks/csharp/exercises/beauty-salon-goes-global)
 
 ### Exceptions
+* [Change](https://exercism.org/tracks/csharp/exercises/change)
+* [Series](https://exercism.org/tracks/csharp/exercises/series)
+* [Hamming](https://exercism.org/tracks/csharp/exercises/hamming)
+* [Phone Number](https://exercism.org/tracks/csharp/exercises/phone-number)
+* [Circular Buffer](https://exercism.org/tracks/csharp/exercises/circular-buffer)
+* [Nucleotide Count](https://exercism.org/tracks/csharp/exercises/nucleotide-count)
+* [RNA Transcription](https://exercism.org/tracks/csharp/exercises/rna-transcription)
 * [Calculator Conundrum](https://exercism.org/tracks/csharp/exercises/calculator-conundrum)
-  
+
 ### Casting
 * [Raindrops](https://exercism.org/tracks/csharp/exercises/raindrops)
 * [Error Handling](https://exercism.org/tracks/csharp/exercises/error-handling)
