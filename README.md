@@ -208,7 +208,12 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [Hyperinflation Hits Hyperia](https://exercism.org/tracks/csharp/exercises/hyperinflation-hits-hyperia)
 
 ### Properties
+* [Matrix](https://exercism.org/tracks/csharp/exercises/matrix)
+* [SGF Parsing](https://exercism.org/tracks/csharp/exercises/sgf-parsing)
+* [Simple Cipher](https://exercism.org/tracks/csharp/exercises/simple-cipher)
+* [Tree Building](https://exercism.org/tracks/csharp/exercises/tree-building)
 * [Weighing Machine](https://exercism.org/tracks/csharp/exercises/weighing-machine)
+* [Binary Search Tree](https://exercism.org/tracks/csharp/exercises/binary-search-tree)
 
 ### Attributes
 * [Attack of the Trolls](https://exercism.org/tracks/csharp/exercises/attack-of-the-trolls)
