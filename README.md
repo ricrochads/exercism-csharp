@@ -224,6 +224,7 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [Attack of the Trolls](https://exercism.org/tracks/csharp/exercises/attack-of-the-trolls)
 
 ### Resource Cleanup
+* [Error Handling](https://exercism.org/tracks/csharp/exercises/error-handling)
 * [Object Relational Mapping](https://exercism.org/tracks/csharp/exercises/object-relational-mapping)
 
 ### String Formatting
