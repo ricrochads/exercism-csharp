@@ -209,11 +209,15 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 
 ### Properties
 * [Matrix](https://exercism.org/tracks/csharp/exercises/matrix)
+* [Hangman](https://exercism.org/tracks/csharp/exercises/hangman)
+* [Two Bucket](https://exercism.org/tracks/csharp/exercises/two-bucket)
 * [SGF Parsing](https://exercism.org/tracks/csharp/exercises/sgf-parsing)
+* [Bank Account](https://exercism.org/tracks/csharp/exercises/bank-account)
 * [Simple Cipher](https://exercism.org/tracks/csharp/exercises/simple-cipher)
 * [Tree Building](https://exercism.org/tracks/csharp/exercises/tree-building)
 * [Weighing Machine](https://exercism.org/tracks/csharp/exercises/weighing-machine)
 * [Binary Search Tree](https://exercism.org/tracks/csharp/exercises/binary-search-tree)
+* [Simple Linked List](https://exercism.org/tracks/csharp/exercises/simple-linked-list)
 
 ### Attributes
 * [Attack of the Trolls](https://exercism.org/tracks/csharp/exercises/attack-of-the-trolls)
