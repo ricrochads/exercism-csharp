@@ -192,6 +192,7 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [Change](https://exercism.org/tracks/csharp/exercises/change)
 * [Series](https://exercism.org/tracks/csharp/exercises/series)
 * [Hamming](https://exercism.org/tracks/csharp/exercises/hamming)
+* [Bank Account](https://exercism.org/tracks/csharp/exercises/bank-account)
 * [Phone Number](https://exercism.org/tracks/csharp/exercises/phone-number)
 * [Circular Buffer](https://exercism.org/tracks/csharp/exercises/circular-buffer)
 * [Nucleotide Count](https://exercism.org/tracks/csharp/exercises/nucleotide-count)
