@@ -254,7 +254,7 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [Orm in One Go](https://exercism.org/tracks/csharp/exercises/orm-in-one-go)
 
 ### Conditionals Ternary
-* [Conditionals Ternary](https://exercism.org/tracks/csharp/concepts/ternary-operators)
+* [The Weather in Deather](https://exercism.org/tracks/csharp/exercises/the-weather-in-deather)
 
 ### Expression Bodied Members
 * [The Weather in Deather](https://exercism.org/tracks/csharp/exercises/the-weather-in-deather)
