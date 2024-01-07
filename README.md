@@ -141,6 +141,11 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Tracks on Tracks on Tracks](https://exercism.org/tracks/csharp/exercises/tracks-on-tracks-on-tracks)
 
 ### Integral Numbers
+* [Say](https://exercism.org/tracks/csharp/exercises/say)
+* [Grains](https://exercism.org/tracks/csharp/exercises/grains)
+* [Prime Factors](https://exercism.org/tracks/csharp/exercises/prime-factors)
+* [Largest Series Product](https://exercism.org/tracks/csharp/exercises/largest-series-product)
+* [Variable Length Quantity](https://exercism.org/tracks/csharp/exercises/variable-length-quantity)
 * [Hyper-optimized Telemetry](https://exercism.org/tracks/csharp/exercises/hyper-optimized-telemetry)
 
 ### Chars
