@@ -112,8 +112,12 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 * [Booking up for Beauty](https://exercism.org/tracks/csharp/exercises/booking-up-for-beauty)
 
 ### Arrays
+* [Sieve](https://exercism.org/tracks/csharp/exercises/sieve)
+* [Series](https://exercism.org/tracks/csharp/exercises/series)
 * [Proverb](https://exercism.org/tracks/csharp/exercises/proverb)
+* [OCR Numbers](https://exercism.org/tracks/csharp/exercises/ocr-numbers)
 * [Bird Watcher](https://exercism.org/tracks/csharp/exercises/bird-watcher)
+* [All Your Base](https://exercism.org/tracks/csharp/exercises/all-your-base)
 * [Resistor Color](https://exercism.org/tracks/csharp/exercises/resistor-color)
 * [Resistor Color Duo](https://exercism.org/tracks/csharp/exercises/resistor-color-duo)
 
