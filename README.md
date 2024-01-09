@@ -155,6 +155,8 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 ### Chars
 * [Luhn](https://exercism.org/tracks/csharp/exercises/luhn)
 * [Acronym](https://exercism.org/tracks/csharp/exercises/acronym)
+* [Diamond](https://exercism.org/tracks/csharp/exercises/diamond)
+* [Minesweeper](https://exercism.org/tracks/csharp/exercises/minesweeper)
 * [OCR Numbers](https://exercism.org/tracks/csharp/exercises/ocr-numbers)
 * [ISBN Verifier](https://exercism.org/tracks/csharp/exercises/isbn-verifier)
 * [Squeaky Clean](https://exercism.org/tracks/csharp/exercises/squeaky-clean)
