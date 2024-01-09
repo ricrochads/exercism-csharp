@@ -173,8 +173,12 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 
 ### Dictionaries
 The dictionary is a collection of elements with a key and a value. If a key is passed into the dictionary method, the value associated with the key is returned.
+* [Word Count](https://exercism.org/tracks/csharp/exercises/word-count)
+* [Go Counting](https://exercism.org/tracks/csharp/exercises/go-counting)
+* [Word Search](https://exercism.org/tracks/csharp/exercises/word-search)
 * [Scrabble Score](https://exercism.org/tracks/csharp/exercises/scrabble-score)
 * [Nucleotide Count](https://exercism.org/tracks/csharp/exercises/nucleotide-count)
+* [Parallel Letter Frequency](https://exercism.org/tracks/csharp/exercises/parallel-letter-frequency)
 * [International Calling Connoisseur](https://exercism.org/tracks/csharp/exercises/international-calling-connoisseur)
 
 ### Switch Statements
