@@ -184,8 +184,12 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [International Calling Connoisseur](https://exercism.org/tracks/csharp/exercises/international-calling-connoisseur)
 
 ### Switch Statements
+* [Grep](https://exercism.org/tracks/csharp/exercises/grep)
+* [Wordy](https://exercism.org/tracks/csharp/exercises/wordy)
+* [Connect](https://exercism.org/tracks/csharp/exercises/connect)
 * [Beer Song](https://exercism.org/tracks/csharp/exercises/beer-song)
 * [Rectangles](https://exercism.org/tracks/csharp/exercises/rectangles)
+* [Robot Simulator](https://exercism.org/tracks/csharp/exercises/robot-simulator)
 * [Football Match Reports](https://exercism.org/tracks/csharp/exercises/football-match-reports)
 
 ### Enums
