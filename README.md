@@ -142,6 +142,8 @@ A string is an immutable instance, and manipulation occurs through methods or pr
 ### Generic Types
 * [Linked List](https://exercism.org/tracks/csharp/exercises/linked-list)
 * [Circular Buffer](https://exercism.org/tracks/csharp/exercises/circular-buffer)
+* [Binary Search Tree](https://exercism.org/tracks/csharp/exercises/binary-search-tree)
+* [Simple Linked List](https://exercism.org/tracks/csharp/exercises/simple-linked-list)
 * [Tracks on Tracks on Tracks](https://exercism.org/tracks/csharp/exercises/tracks-on-tracks-on-tracks)
 
 ### Integral Numbers
