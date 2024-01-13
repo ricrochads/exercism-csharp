@@ -215,6 +215,7 @@ The dictionary is a collection of elements with a key and a value. If a key is p
 * [Hamming](https://exercism.org/tracks/csharp/exercises/hamming)
 * [Bank Account](https://exercism.org/tracks/csharp/exercises/bank-account)
 * [Phone Number](https://exercism.org/tracks/csharp/exercises/phone-number)
+* [Error Handling](https://exercism.org/tracks/csharp/exercises/error-handling)
 * [Circular Buffer](https://exercism.org/tracks/csharp/exercises/circular-buffer)
 * [Nucleotide Count](https://exercism.org/tracks/csharp/exercises/nucleotide-count)
 * [RNA Transcription](https://exercism.org/tracks/csharp/exercises/rna-transcription)
